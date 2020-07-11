@@ -1,4 +1,4 @@
-Cloud-Native Developer
+Cloud-Native 개발을 지향하는 개발자.
 
 <!--
 **kidmam/kidmam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
