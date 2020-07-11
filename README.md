@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://parksangkil.github.io/ko/)](https://parksangkil.github.io/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a/)](https://www.linkedin.com/in/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a/)
-	
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/psk2343)](https://www.facebook.com/psk2343)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://parksangkil.github.io/ko/)](https://parksangkil.github.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a/)](https://www.linkedin.com/in/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/psk2343)](https://www.facebook.com/psk2343)
