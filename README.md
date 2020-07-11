@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 기술 요약 <br>
 · Spring 개발 환경 이해와 Github, Jenkins, Jira, Confluence, Slack 환경에서의 개발 경험 <br>
-· Ionic, react-native, flutter 기반 개발 가능
-· 클라우드 인프라 설계 및 Terraform 또는 AWS CDK 이용 Infrastructure as Code 기반 구성
-· CI/CD Pipeline 구성 (AWS CodeCommit, CodeBuild, CodeDeploy, CodePipeline)
-· 모니터링 시스템 구축 EFK, Prometheus/Grafana
-· 업무 자동화 - Golang
+· Ionic, react-native, flutter 기반 개발 가능 <br>
+· 클라우드 인프라 설계 및 Terraform 또는 AWS CDK 이용 Infrastructure as Code 기반 구성 <br>
+· CI/CD Pipeline 구성 (AWS CodeCommit, CodeBuild, CodeDeploy, CodePipeline) <br>
+· 모니터링 시스템 구축 EFK, Prometheus/Grafana <br>
+· 업무 자동화 - Golang <br>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://parksangkil.github.io/ko/)](https://parksangkil.github.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a/)](https://www.linkedin.com/in/%EC%83%81%EA%B8%B8-%EB%B0%95-b6ab145a/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/psk2343)](https://www.facebook.com/psk2343)
