@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-기술 요약
-· Spring 개발 환경 이해와 Github, Jenkins, Jira, Confluence, Slack 환경에서의 개발 경험
+기술 요약 <br>
+· Spring 개발 환경 이해와 Github, Jenkins, Jira, Confluence, Slack 환경에서의 개발 경험 <br>
 · Ionic, react-native, flutter 기반 개발 가능
 · 클라우드 인프라 설계 및 Terraform 또는 AWS CDK 이용 Infrastructure as Code 기반 구성
 · CI/CD Pipeline 구성 (AWS CodeCommit, CodeBuild, CodeDeploy, CodePipeline)
